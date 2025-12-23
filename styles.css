@@ -151,6 +151,43 @@ main {
     display: none;
 }
 
+/* Footer Styles */
+.footer {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 25px 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer-text {
+    font-size: 1rem;
+    margin-bottom: 8px;
+    opacity: 0.95;
+}
+
+.footer-text strong {
+    font-weight: 700;
+}
+
+.footer-contact {
+    font-size: 0.95rem;
+    opacity: 0.9;
+}
+
+.footer-contact a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    border-bottom: 1px solid transparent;
+}
+
+.footer-contact a:hover {
+    opacity: 1;
+    border-bottom: 1px solid white;
+}
+
 @media (max-width: 600px) {
     body {
         padding: 10px;
@@ -172,5 +209,17 @@ main {
     .nav-btn {
         padding: 12px 30px;
         font-size: 1rem;
+    }
+
+    .footer {
+        padding: 20px 15px;
+    }
+
+    .footer-text {
+        font-size: 0.9rem;
+    }
+
+    .footer-contact {
+        font-size: 0.85rem;
     }
 }

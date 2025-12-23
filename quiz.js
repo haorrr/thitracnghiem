@@ -121,14 +121,14 @@ function handleAnswerClick(selectedIndex) {
     // Update score if correct
     if (selectedIndex === correctIndex) {
         score++;
-        scoreElement.textContent = `Score: ${score}`;
+        scoreElement.textContent = `Điểm: ${score}`;
     }
 }
 
 // Update UI elements
 function updateUI() {
     questionCounter.textContent = `Question ${currentQuestionIndex + 1} of ${quizData.length}`;
-    scoreElement.textContent = `Score: ${score}`;
+    scoreElement.textContent = `Điểm: ${score}`;
 
     // Enable/disable navigation buttons
     prevBtn.disabled = currentQuestionIndex === 0;
