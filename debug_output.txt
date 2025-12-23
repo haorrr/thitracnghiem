@@ -1,0 +1,212 @@
+=== DOCUMENT STRUCTURE ===
+
+
+--- Paragraph 0 ---
+Text: 1: Nhà giáo bị tạm đình chỉ giảng dạy khi nào?
+Number of runs: 1
+
+--- Paragraph 1 ---
+Text: Có khiếu nại
+Number of runs: 1
+
+--- Paragraph 2 ---
+Text: Khi có dấu hiệu vi phạm nghiêm trọng đạo đức, pháp luật hoặc gây hậu quả trong giáo dục
+HAS UNDERLINE: Khi có dấu hiệu vi phạm nghiêm trọng đạo đức, pháp luật hoặc gây hậu quả trong giáo dục 
+Number of runs: 1
+
+--- Paragraph 3 ---
+Text: Khi học sinh phản ánh hoặc gây hậu quả trong giáo dục hoặc khi hiệu trưởng yêu cầu
+Number of runs: 1
+
+--- Paragraph 4 ---
+Text: Khi hiệu trưởng yêu cầu
+Number of runs: 1
+
+--- Paragraph 5 ---
+Text: Câu 2: Việc công nhận danh hiệu “Nhà giáo nhân dân” phải dựa trên yếu tố nào?
+Number of runs: 1
+
+--- Paragraph 6 ---
+Text: Số năm công tác
+Number of runs: 1
+
+--- Paragraph 7 ---
+Text: Thành tích xuất sắc, uy tín, ảnh hưởng tích cực và cống hiến đặc biệt cho sự nghiệp giáo dục
+HAS UNDERLINE: Thành tích xuất sắc, uy tín, ảnh hưởng tích cực và cống hiến đặc biệt cho sự nghiệp giáo dục
+Number of runs: 1
+
+--- Paragraph 8 ---
+Text: C. Bằng cấp
+Number of runs: 1
+
+--- Paragraph 9 ---
+Text: D. Đề cử tập thể, ảnh hưởng tích cực và cống hiến đặc biệt cho sự nghiệp giáo dục
+Number of runs: 1
+
+--- Paragraph 10 ---
+Text: Câu 3: “Vị trí việc làm” được hiểu là gì theo Điều 7 Luật viên chức?:
+Number of runs: 1
+
+--- Paragraph 11 ---
+Text: Tên gọi công việc trong đơn vị
+Number of runs: 1
+
+--- Paragraph 12 ---
+Text: Công việc gắn với chức danh nghề nghiệp
+HAS UNDERLINE: Công việc gắn với chức danh nghề nghiệp 
+Number of runs: 1
+
+--- Paragraph 13 ---
+Text: Khối lượng nhiệm vụ của cá nhân
+Number of runs: 1
+
+--- Paragraph 14 ---
+Text: Danh mục nhiệm vụ theo năm
+Number of runs: 1
+
+--- Paragraph 15 ---
+Text: Câu 4: Điều kiện KHÔNG được đăng ký dự tuyển viên chức?
+Number of runs: 1
+
+--- Paragraph 16 ---
+Text: Đang cư trú tại Việt Nam
+Number of runs: 1
+
+--- Paragraph 17 ---
+Text: Đủ sức khỏe
+Number of runs: 1
+
+--- Paragraph 18 ---
+Text: Đang bị truy cứu trách nhiệm hình sự
+HAS UNDERLINE: Đang bị truy cứu trách nhiệm hình sự 
+Number of runs: 1
+
+--- Paragraph 19 ---
+Text: Có văn bằng phù hợp
+Number of runs: 1
+
+--- Paragraph 20 ---
+Text: Câu 5: Nhà nước có chính sách thu hút người giỏi vào ngành sư phạm bằng cách nào?
+Number of runs: 1
+
+--- Paragraph 21 ---
+Text: Tăng học phí
+Number of runs: 1
+
+--- Paragraph 22 ---
+Text: Miễn, giảm học phí, hỗ trợ chi phí học tập, đảm bảo việc làm sau khi ra trường
+HAS UNDERLINE: Miễn, giảm học phí, hỗ trợ chi phí học tập, đảm bảo việc làm sau khi ra trường 
+Number of runs: 1
+
+--- Paragraph 23 ---
+Text: Cho vay ưu đãi
+Number of runs: 1
+
+--- Paragraph 24 ---
+Text: Giảm thời gian đào tạo
+Number of runs: 1
+
+--- Paragraph 25 ---
+Text: Câu 6: Luật Nhà giáo 2025 thay thế văn bản nào trước đây?
+Number of runs: 1
+
+--- Paragraph 26 ---
+Text: Luật Giáo dục 2005
+Number of runs: 1
+
+--- Paragraph 27 ---
+Text: Luật Viên chức
+Number of runs: 1
+
+--- Paragraph 28 ---
+Text: Nghị định 115/2020/NĐ-CP
+Number of runs: 1
+
+--- Paragraph 29 ---
+Text: Tất cả đều sai
+HAS UNDERLINE: Tất cả đều sai 
+Number of runs: 1
+
+--- Paragraph 30 ---
+Text: Câu 7: Phương thức tuyển dụng viên chức gồm hình thức nào?
+Number of runs: 1
+
+--- Paragraph 31 ---
+Text: Xét tuyển bắt buộc
+Number of runs: 1
+
+--- Paragraph 32 ---
+Text: Thử việc
+Number of runs: 1
+
+--- Paragraph 33 ---
+Text: Tiếp nhận theo diện cử tuyển
+Number of runs: 1
+
+--- Paragraph 34 ---
+Text: Thi tuyển hoặc xét tuyển
+HAS UNDERLINE: Thi tuyển hoặc xét tuyển 
+Number of runs: 1
+
+--- Paragraph 35 ---
+Text: Câu 8: Viên chức là người làm việc theo chế độ nào?
+Number of runs: 1
+
+--- Paragraph 36 ---
+Text: Biên chế nhà nước
+Number of runs: 1
+
+--- Paragraph 37 ---
+Text: Tuyển dụng tạm thời
+Number of runs: 1
+
+--- Paragraph 38 ---
+Text: Hợp đồng dân sự
+Number of runs: 1
+
+--- Paragraph 39 ---
+Text: Hợp đồng làm việc trong đơn vị sự nghiệp công lập
+HAS UNDERLINE: Hợp đồng làm việc trong đơn vị sự nghiệp công lập
+Number of runs: 1
+
+--- Paragraph 40 ---
+Text: Câu 9: Viên chức được tuyển dụng theo nguyên tắc nào?
+Number of runs: 1
+
+--- Paragraph 41 ---
+Text: Công khai, minh bạch, công bằng, khách quan và đúng pháp luật
+HAS UNDERLINE: Công khai, minh bạch, công bằng, khách quan và đúng pháp luật 
+Number of runs: 1
+
+--- Paragraph 42 ---
+Text: Tự do cạnh tranh
+Number of runs: 1
+
+--- Paragraph 43 ---
+Text: Theo giới thiệu, Tự do cạnh tranh, Theo vị trí địa phương
+Number of runs: 1
+
+--- Paragraph 44 ---
+Text: Theo vị trí địa phương
+Number of runs: 1
+
+--- Paragraph 45 ---
+Text: Câu 10: Hợp đồng làm việc của viên chức có mấy loại?
+Number of runs: 1
+
+--- Paragraph 46 ---
+Text: 2 loại
+Number of runs: 1
+
+--- Paragraph 47 ---
+Text: 3 loại: xác định thời hạn và không xác định thời hạn, vô thời hạn.
+Number of runs: 1
+
+--- Paragraph 48 ---
+Text: 2 loại: xác định thời hạn và không xác định thời hạn
+HAS UNDERLINE: 2 loại: xác định thời hạn và không xác định thời hạn 
+Number of runs: 1
+
+--- Paragraph 49 ---
+Text: 4 loại
+Number of runs: 1

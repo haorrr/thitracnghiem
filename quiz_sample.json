@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1: Nhà giáo bị tạm đình chỉ giảng dạy khi nào?",
+    "answers": [
+      "Có khiếu nại",
+      "Khi có dấu hiệu vi phạm nghiêm trọng đạo đức, pháp luật hoặc gây hậu quả trong giáo dục",
+      "Khi học sinh phản ánh hoặc gây hậu quả trong giáo dục hoặc khi hiệu trưởng yêu cầu",
+      "Khi hiệu trưởng yêu cầu"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Câu 2: Việc công nhận danh hiệu “Nhà giáo nhân dân” phải dựa trên yếu tố nào?",
+    "answers": [
+      "Số năm công tác",
+      "Thành tích xuất sắc, uy tín, ảnh hưởng tích cực và cống hiến đặc biệt cho sự nghiệp giáo dục",
+      "Bằng cấp",
+      "Đề cử tập thể, ảnh hưởng tích cực và cống hiến đặc biệt cho sự nghiệp giáo dục"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Câu 3: “Vị trí việc làm” được hiểu là gì theo Điều 7 Luật viên chức?:",
+    "answers": [
+      "Tên gọi công việc trong đơn vị",
+      "Công việc gắn với chức danh nghề nghiệp",
+      "Khối lượng nhiệm vụ của cá nhân",
+      "Danh mục nhiệm vụ theo năm"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Câu 4: Điều kiện KHÔNG được đăng ký dự tuyển viên chức?",
+    "answers": [
+      "Đang cư trú tại Việt Nam",
+      "Đủ sức khỏe",
+      "Đang bị truy cứu trách nhiệm hình sự",
+      "Có văn bằng phù hợp"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Câu 5: Nhà nước có chính sách thu hút người giỏi vào ngành sư phạm bằng cách nào?",
+    "answers": [
+      "Tăng học phí",
+      "Miễn, giảm học phí, hỗ trợ chi phí học tập, đảm bảo việc làm sau khi ra trường",
+      "Cho vay ưu đãi",
+      "Giảm thời gian đào tạo"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Câu 6: Luật Nhà giáo 2025 thay thế văn bản nào trước đây?",
+    "answers": [
+      "Luật Giáo dục 2005",
+      "Luật Viên chức",
+      "Nghị định 115/2020/NĐ-CP",
+      "Tất cả đều sai"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Câu 7: Phương thức tuyển dụng viên chức gồm hình thức nào?",
+    "answers": [
+      "Xét tuyển bắt buộc",
+      "Thử việc",
+      "Tiếp nhận theo diện cử tuyển",
+      "Thi tuyển hoặc xét tuyển"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Câu 8: Viên chức là người làm việc theo chế độ nào?",
+    "answers": [
+      "Biên chế nhà nước",
+      "Tuyển dụng tạm thời",
+      "Hợp đồng dân sự",
+      "Hợp đồng làm việc trong đơn vị sự nghiệp công lập"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Câu 9: Viên chức được tuyển dụng theo nguyên tắc nào?",
+    "answers": [
+      "Công khai, minh bạch, công bằng, khách quan và đúng pháp luật",
+      "Tự do cạnh tranh",
+      "Theo giới thiệu, Tự do cạnh tranh, Theo vị trí địa phương",
+      "Theo vị trí địa phương"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Câu 10: Hợp đồng làm việc của viên chức có mấy loại?",
+    "answers": [
+      "2 loại",
+      "3 loại: xác định thời hạn và không xác định thời hạn, vô thời hạn.",
+      "2 loại: xác định thời hạn và không xác định thời hạn",
+      "4 loại"
+    ],
+    "correctAnswer": 2
+  }
+]

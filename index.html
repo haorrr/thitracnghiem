@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Quiz Time</h1>
+            <div class="quiz-info">
+                <span id="question-counter">Question 1 of 292</span>
+                <span id="score">Score: 0</span>
+            </div>
+        </header>
+
+        <main id="quiz-container">
+            <div class="question-card">
+                <h2 id="question-text">Loading...</h2>
+                <div id="answers-container" class="answers-grid">
+                    <!-- Answers will be inserted here dynamically -->
+                </div>
+            </div>
+
+            <div class="navigation-buttons">
+                <button id="prev-btn" class="nav-btn" disabled>Câu Trước</button>
+                <button id="next-btn" class="nav-btn">Câu Sau</button>
+            </div>
+        </main>
+
+        <div id="result-container" class="result-container hidden">
+            <h2>Đã Hoàn Thành!</h2>
+            <p id="final-score"></p>
+            <button id="restart-btn" class="nav-btn">Làm Lại </button>
+        </div>
+    </div>
+
+    <script src="quiz.js"></script>
+</body>
+</html>
