@@ -140,13 +140,14 @@
     "correctAnswer": 2
   },
   {
-    "question": "Câu 15: Viên chức có quyền gì trong hoạt động nghềnghiệp? A. Tự do lựa chọn công việc.",
+    "question": "Câu 15: Viên chức có quyền gì trong hoạt động nghềnghiệp? ",
     "answers": [
+      "Tự do lựa chọn công việc.",
       "Quyền thi đua, khen thưởng.",
       "Quyền được bảo đảm điều kiện làm việc, đào tạo, nâng cao trình độ, được bảo vệ danh dự và quyền lợi hợp pháp.",
       "Quyền quản lý nhân sự, đào tạo, nâng cao trình độ, được bảo vệ danh dự, quyền thi đua, khen thưởng"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "question": "Câu 16: Theo Luật Viên chức, Viên chức có quyền gì về lương thưởng?",
@@ -159,10 +160,11 @@
     "correctAnswer": 1
   },
   {
-    "question": "17: Văn bản quy phạm pháp luật là gì?",
+    "question": "Câu 17: Văn bản quy phạm pháp luật là gì?",
     "answers": [
       "Văn bản hành chính có hướng dẫn nghiệp vụ được ban hành theo cơ quan và có hiệu lực bắt buộc riêng.",
-      "Văn bản có chứa quy tắc xử sự chung, được ban hành theo thẩm quyền, trình tự, thủ tục được pháp luật quy định, có hiệu lực bắt buộc chung. C. Văn bản nội bộ cơ quan.",
+      "Văn bản có chứa quy tắc xử sự chung, được ban hành theo thẩm quyền, trình tự, thủ tục được pháp luật quy định, có hiệu lực bắt buộc chung.",
+      "Văn bản nội bộ cơ quan.",
       "Văn bản hướng dẫn nghiệp vụ."
     ],
     "correctAnswer": 1
@@ -178,13 +180,14 @@
     "correctAnswer": 0
   },
   {
-    "question": "Câu 19: Chính phủ ban hành văn bản quy phạm pháp luật dưới hình thức nào? A. Nghị quyết.",
+    "question": "Câu 19: Chính phủ ban hành văn bản quy phạm pháp luật dưới hình thức nào? ",
     "answers": [
+      "Nghị quyết.",
       "Nghị định.",
       "Thông tư.",
       "Quyết định."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "question": "Câu 20: Luật ban hành văn bản quy phạm pháp luật có hiệu lực từ khi nào?",
@@ -207,30 +210,34 @@
     "correctAnswer": 2
   },
   {
-    "question": "Câu 22: Hệ thống văn bản quy phạm pháp luật gồm những loại chính nào? A. Chỉ gồm luật và nghị định.",
+    "question": "Câu 22: Hệ thống văn bản quy phạm pháp luật gồm những loại chính nào? ",
     "answers": [
+      "Chỉ gồm luật và nghị định.",
       "Gồm Hiến pháp, luật, pháp lệnh, nghị định, quyết định, thông tư, nghị quyết, và văn bản của HĐND, UBND các cấp.",
-      "Gồm nghị định và thông tư, thông báo, công văn, tờ trình, biên bản, chỉ thi, kế hoạch và văn bản của HĐND, UBND các cấp. D. Gồm luật và nghị quyết."
+      "Gồm nghị định và thông tư, thông báo, công văn, tờ trình, biên bản, chỉ thi, kế hoạch và văn bản của HĐND, UBND các cấp. ",
+      "Gồm luật và nghị quyết."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
-    "question": "Câu 23: Hình thức văn bản quy phạm pháp luật nào có hiệu lực pháp lý cao nhất sau Hiến pháp? A. Nghị định.",
+    "question": "Câu 23: Hình thức văn bản quy phạm pháp luật nào có hiệu lực pháp lý cao nhất sau Hiến pháp? ",
     "answers": [
+      "Nghị định.",
       "Pháp lệnh.",
       "Nghị quyết của Quốc hội.",
       "Luật, Bộ luật."
     ],
-    "correctAnswer": 2
+    "correctAnswer": 3
   },
   {
-    "question": "Câu 24: Việc lấy ý kiến đối với dự thảo văn bản quy phạm pháp luật nhằm mục đích: A. Báo cáo thủ trưởng.",
+    "question": "Câu 24: Việc lấy ý kiến đối với dự thảo văn bản quy phạm pháp luật nhằm mục đích:",
     "answers": [
+      "Báo cáo thủ trưởng.",
       "Bảo đảm tính dân chủ, công khai, phản ánh ý kiến của đối tượng chịu tác động.",
       "Hợp thức hóa văn bản, Báo cáo thủ trưởng, Xin ý kiến hình thức.",
       "Xin ý kiến hình thức."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "question": "Câu 25: Văn bản có quy phạm pháp luật và văn bản cá biệt khác nhau ở điểm nào?",
@@ -418,13 +425,19 @@
       "60% cơ sở dùng phần mềm quản lý",
       "100% cơ sở giáo dục áp dụng quản lý, giảng dạy, học tập trực tuyến",
       "70% giáo viên biết CNTT",
-      "50% học sinh học online, 100% cơ sở giáo dục áp dụng quản lý, giảng dạy, học tập trực tuyến Câu 44: Giáo dục đạo đức, lối sống, kỹ năng sống cho học sinh được thực hiện qua:",
+      "50% học sinh học online, 100% cơ sở giáo dục áp dụng quản lý, giảng dạy, học tập trực tuyến "
+    ],
+    "correctAnswer": 1
+  },
+    {
+    "question": "Câu 44: Giáo dục đạo đức, lối sống, kỹ năng sống cho học sinh được thực hiện qua:",
+    "answers": [
       "Chương trình tích hợp trong tất cả các cấp học và hoạt động ngoại khóa",
       "Dạy riêng biệt",
       "Hội thảo kỹ năng, Dạy riêng biệt trong tất cả các cấp học và hoạt động ngoại khóa",
       "Dạy học online"
     ],
-    "correctAnswer": 4
+    "correctAnswer": 0
   },
   {
     "question": "Câu 45: Chiến lược nhấn mạnh vai trò của khoa học – công nghệ trong giáo dục là:",
@@ -487,94 +500,104 @@
     "correctAnswer": 3
   },
   {
-    "question": "Câu 51: Mục tiêu tổng quát của Nghị quyết 29-NQ/TW là gì? A. Đổi mới quản lý hành chính công.",
+    "question": "Câu 51: Mục tiêu tổng quát của Nghị quyết 29-NQ/TW là gì?",
     "answers": [
+      "Đổi mới quản lý hành chính công.",
       "Tập trung phát triển giáo dục nghề nghiệp.",
       "Mở rộng quy mô đào tạo đại học, đáp ứng CNH–HĐH và hội nhập quốc tế",
       "Đổi mới căn bản, toàn diện GD&ĐT, đáp ứng CNH–HĐH và hội nhập quốc tế."
     ],
-    "correctAnswer": 2
+    "correctAnswer": 3
   },
   {
-    "question": "Câu 52: Nghị quyết 29-NQ/TW được ban hành vào thời gian nào? A. Ngày 4/11/2013.",
+    "question": "Câu 52: Nghị quyết 29-NQ/TW được ban hành vào thời gian nào?",
     "answers": [
+      "Ngày 4/11/2013.",
       "Ngày 4/11/2014.",
       "Ngày 15/10/2012.",
       "Ngày 19/5/2015."
     ],
-    "correctAnswer": -1
+    "correctAnswer": 0
   },
   {
-    "question": "Câu 53: Cơ quan nào ban hành Nghị quyết 29-NQ/TW? A. Quốc hội nước CHXHCN Việt Nam.",
+    "question": "Câu 53: Cơ quan nào ban hành Nghị quyết 29-NQ/TW?",
     "answers": [
+      "Quốc hội nước CHXHCN Việt Nam.",
       "BCH TW Đảng Cộng sản Việt Nam (khóa XI).",
       "Bộ Giáo dục và Đào tạo.",
       "Chính phủ."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
-    "question": "Câu 54: Nghị quyết 29-NQ/TW xác định đổi mới giáo dục là nhiệm vụ của ai? A. Riêng ngành giáo dục.",
+    "question": "Câu 54: Nghị quyết 29-NQ/TW xác định đổi mới giáo dục là nhiệm vụ của ai?",
     "answers": [
+      "Riêng ngành giáo dục.",
       "Toàn Đảng, toàn dân, toàn xã hội.",
       "Cơ quan nhà nước.",
       "Cấp quản lý giáo dục."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
-    "question": "Câu 55: Theo Nghị quyết 29-NQ/TW, yếu tố “cốt lõi” của đổi mới giáo dục là gì? A. Cải cách tài chính giáo dục.",
+    "question": "Câu 55: Theo Nghị quyết 29-NQ/TW, yếu tố “cốt lõi” của đổi mới giáo dục là gì?",
     "answers": [
+      "Cải cách tài chính giáo dục.",
       "Mở rộng quy mô trường học.",
       "Đổi mới căn bản về nội dung, phương pháp, cơ chế, chính sách và quản lý.",
       "Tăng cường đầu tư hạ tầng."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
-    "question": "Câu 56: Nghị quyết 29-NQ/TW xác định “giáo dục là quốc sách hàng đầu” nhằm mục tiêu nào? A. Bảo đảm an sinh xã hội.",
+    "question": "Câu 56: Nghị quyết 29-NQ/TW xác định “giáo dục là quốc sách hàng đầu” nhằm mục tiêu nào?",
     "answers": [
+      "Bảo đảm an sinh xã hội.",
       "Phát triển con người toàn diện, nguồn nhân lực chất lượng cao.",
       "Ổn định dân số.",
       "Phát triển nguồn nhân lực, con người toàn diện chất lượng cao."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
-    "question": "Câu 57: Một trong những yêu cầu trọng tâm của đổi mới giáo dục theo Nghị quyết 29-NQ/TW là gì? A. Tăng học phí.",
+    "question": "Câu 57: Một trong những yêu cầu trọng tâm của đổi mới giáo dục theo Nghị quyết 29-NQ/TW là gì?",
     "answers": [
+      "Tăng học phí.",
       "Chuyển mạnh quá trình giáo dục từ chủ yếu trang bị kiến thức sang phát triển phẩm chất và năng lực người học.",
       "Giảm sĩ số lớp học.",
       "Tăng học phí; Giảm sĩ số lớp học; Mở rộng số lượng trường tư thục; phát triển phẩm chất và năng lực người học."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
-    "question": "Câu 58: Nghị quyết 29-NQ/TW nhấn mạnh phương châm nào trong phát triển giáo dục? A. Học để lấy bằng cấp.",
-    "answers": [
+    "question": "Câu 58: Nghị quyết 29-NQ/TW nhấn mạnh phương châm nào trong phát triển giáo dục?",
+    "answers": [  
+      "Học để lấy bằng cấp.",
       "Học để thi cử.",
       "Học đi đôi với hành, lý luận gắn với thực tiễn.",
       "Học để tìm việc, dọc để lấy bằng cấp, học để thi cử."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
-    "question": "Câu 59: Theo Nghị quyết 29-NQ/TW, giáo dục phải đáp ứng yêu cầu gì của xã hội? A. Tự do hóa toàn bộ.",
+    "question": "Câu 59: Theo Nghị quyết 29-NQ/TW, giáo dục phải đáp ứng yêu cầu gì của xã hội? ",
     "answers": [
+      "Tự do hóa toàn bộ.",
       "Hạn chế tự chủ.",
       "CNH–HĐH và hội nhập quốc tế.",
       "Tập trung vào giáo dục tiểu học."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
-    "question": "Câu 60: Mục tiêu phát triển giáo dục con người Việt Nam trong Nghị quyết 29-NQ/TW là: A. Chỉ chú trọng tri thức.",
+    "question": "Câu 60: Mục tiêu phát triển giáo dục con người Việt Nam trong Nghị quyết 29-NQ/TW là:",
     "answers": [
+      "Chỉ chú trọng tri thức.",
       "Đào tạo con người sáng tạo.",
       "Phát triển toàn diện về đạo đức, trí tuệ, thể chất, thẩm mỹ và nghề nghiệp.",
       "Nâng cao tỉ lệ vào đại học."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "question": "61: Luật Giáo dục 2019 có hiệu lực thi hành từ ngày nào?",
@@ -667,13 +690,14 @@
     "correctAnswer": 1
   },
   {
-    "question": "Câu 70: Luật Giáo dục 2019 quy định ngôn ngữ dùng trong nhà trường là: A. Tiếng Anh.",
+    "question": "Câu 70: Luật Giáo dục 2019 quy định ngôn ngữ dùng trong nhà trường là:",
     "answers": [
+      "Tiếng Anh.",
       "Tiếng dân tộc thiểu số.",
       "Tiếng Việt, đồng thời khuyến khích học tiếng dân tộc và tiếng nước ngoài.",
       "Tùy từng vùng miền."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "question": "Câu 71: Luật Nhà giáo số 73/2025/QH15 có hiệu lực thi hành từ ngày nào?",
@@ -746,13 +770,14 @@
     "correctAnswer": 2
   },
   {
-    "question": "Câu 78: Ngoài việc được hưởng chế độ theo pháp luật về bảo hiểm xã hội, Luật Nhà giáo 2025 quy định chính sách nào đối với nhà giáo nghỉ hưu nhằm tận dụng kinh nghiệm và uy tín của họ? A. Tặng thưởng một khoản tiền lớn để nghỉ ngơi.",
+    "question": "Câu 78: Ngoài việc được hưởng chế độ theo pháp luật về bảo hiểm xã hội, Luật Nhà giáo 2025 quy định chính sách nào đối với nhà giáo nghỉ hưu nhằm tận dụng kinh nghiệm và uy tín của họ? ",
     "answers": [
+      "Tặng thưởng một khoản tiền lớn để nghỉ ngơi.",
       "Yêu cầu nhà giáo phải trở thành chuyên gia tư vấn giáo dục cấp tỉnh.",
       "Khuyến khích tham gia hoạt động giảng dạy, nghiên cứu, giáo dục phù hợp với khả năng và nhu cầu của cơ sở giáo dục.",
       "Bắt buộc giữ lại làm việc tại cơ quan quản lý cũ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "question": "Câu 79: Theo Luật Nhà giáo 2025, Nhà nước khuyến khích, hỗ trợ nhà giáo trẻ công tác tại vùng khó khăn bằng chính sách nào?",
@@ -865,13 +890,14 @@
     "correctAnswer": 2
   },
   {
-    "question": "Câu 90: Trách nhiệm của cơ sở giáo dục trong việc thực hiện Luật Nhà giáo là: A. Triển khai giảng dạy.",
+    "question": "Câu 90: Trách nhiệm của cơ sở giáo dục trong việc thực hiện Luật Nhà giáo là:",
     "answers": [
+      "Triển khai giảng dạy.",
       "Tổ chức phổ biến, thực hiện các quy định của Luật, bảo đảm quyền, nghĩa vụ và điều kiện làm việc của nhà giáo.",
       "Quản lý tài chính.",
       "Đánh giá học sinh."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "question": "Câu 91: Theo Luật Nhà giáo, Quyền của nhà giáo trong kiểm tra, đánh giá người học là:",
@@ -944,13 +970,14 @@
     "correctAnswer": 1
   },
   {
-    "question": "Câu 98: Nguyên tắc đánh giá nhà giáo theo Luật Nhà giáo 2025 phải được \"gắn với kết quả giáo dục, đào tạo\". Nguyên tắc này có ý nghĩa gì đối với trách nhiệm giải trình của nhà giáo? A. Nhà giáo chỉ cần đảm bảo hoàn thành số giờ dạy quy định.",
+    "question": "Câu 98: Nguyên tắc đánh giá nhà giáo theo Luật Nhà giáo 2025 phải được \"gắn với kết quả giáo dục, đào tạo\". Nguyên tắc này có ý nghĩa gì đối với trách nhiệm giải trình của nhà giáo? ",
     "answers": [
+      "Nhà giáo chỉ cần đảm bảo hoàn thành số giờ dạy quy định.",
       "Nhà giáo chịu trách nhiệm hoàn toàn về kết quả thi của học sinh.",
       "Đánh giá nhà giáo không chỉ dựa trên việc hoàn thành giờ dạy mà còn dựa trên mức độ đạt chuẩn đầu ra và sự tiến bộ của người học.",
       "Khuyến khích nhà giáo tập trung vào nghiên cứu khoa học hơn là giảng dạy"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "question": "Câu 99: Theo Luật Nhà giáo, Nhà giáo được bồi dưỡng nâng cao trình độ bằng hình thức nào?",
@@ -1313,13 +1340,14 @@
     "correctAnswer": 0
   },
   {
-    "question": "Câu 135: Phần số, ký hiệu của văn bản được ghi ở: A. Cuối trang.",
+    "question": "Câu 135: Phần số, ký hiệu của văn bản được ghi ở:",
     "answers": [
+      "Cuối trang.",
       "Phía dưới tên cơ quan, bên trái trang đầu.",
       "Bên phải quốc hiệu.",
       "Phía dưới chữ ký."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "question": "Câu 136: Dấu cơ quan được đóng ở vị trí nào?",
@@ -1617,13 +1645,19 @@
       "Phổ cập trung học",
       "Giảm chi phí học tập",
       "Tăng học nghề",
-      "Gắn kết liên thông giữa giáo dục phổ thông với giáo dục nghề nghiệp và giáo dục đại học Câu 166: Định hướng đổi mới thi, kiểm tra, đánh giá là:",
+      "Gắn kết liên thông giữa giáo dục phổ thông với giáo dục nghề nghiệp và giáo dục đại học "
+    ],
+    "correctAnswer": 3
+  },
+    {
+    "question": "Câu 166: Định hướng đổi mới thi, kiểm tra, đánh giá là:",
+    "answers": [
       "Giữ nguyên quy chế cũ",
       "Đánh giá năng lực, phẩm chất người học, kết hợp đánh giá thường xuyên và tổng kết",
       "Đánh giá học thuộc",
       "Thi định kỳ"
     ],
-    "correctAnswer": 5
+    "correctAnswer": 1
   },
   {
     "question": "Câu 167: Phát triển giáo dục đại học gắn với yêu cầu nào của đất nước?",
@@ -1731,12 +1765,20 @@
       "Bắt buộc tất cả các CSGDĐH phải chuyển sang mô hình tự chủ hoàn toàn, không nhận ngân sách.",
       "Cho phép CSGDĐH được quyền quyết định tất cả các khoản thu mà không cần phê duyệt.",
       "Đảm bảo nguồn vốn đầu tư ngân sách Nhà nước giữ vai trò chủ đạo cho các ngành cơ bản, mũi nhọn và các trường công lập, tạo tiền đề để CSGDĐH tự chủ tài chính trong các lĩnh vực khác mà vẫn đảm bảo chất lượng.",
-      "Là nguyên tắc chỉ áp dụng cho trường phổ thông, không áp dụng cho giáo dục đại học. Câu 178: Trong Chiến lược phát triển giáo dục giai đoạn 2021-2030, tầm nhìn 2045, hợp tác quốc tế được xác định là một giải pháp quan trọng. Mục tiêu cốt lõi của giải pháp này là gì trong việc nâng cao chất lượng giáo dục đại học Việt Nam?",
+      "Là nguyên tắc chỉ áp dụng cho trường phổ thông, không áp dụng cho giáo dục đại học."
+
+    ],
+    "correctAnswer": 2
+  },
+    {
+    "question": "Câu 178: Trong Chiến lược phát triển giáo dục giai đoạn 2021-2030, tầm nhìn 2045, hợp tác quốc tế được xác định là một giải pháp quan trọng. Mục tiêu cốt lõi của giải pháp này là gì trong việc nâng cao chất lượng giáo dục đại học Việt Nam?",
+    "answers": [
       "Thu hút sinh viên quốc tế đến học tập để tăng nguồn thu ngân sách.",
-      "Tiếp thu các chuẩn mực quản trị, chương trình đào tạo và phương pháp nghiên cứu tiên tiến của thế giới để cải thiện chất lượng giáo dục và tăng vị thế trên các bảng xếp hạng quốc tế. C. Chỉ tập trung vào việc gửi giảng viên ra nước ngoài đào tạo.",
+      "Tiếp thu các chuẩn mực quản trị, chương trình đào tạo và phương pháp nghiên cứu tiên tiến của thế giới để cải thiện chất lượng giáo dục và tăng vị thế trên các bảng xếp hạng quốc tế.",
+      "Chỉ tập trung vào việc gửi giảng viên ra nước ngoài đào tạo.",
       "Đạt mục tiêu 100% giáo viên biết sử dụng ngoại ngữ."
     ],
-    "correctAnswer": 5
+    "correctAnswer": 1
   },
   {
     "question": "Câu 179: Chính phủ yêu cầu địa phương triển khai Chiến lược giáo dục theo hướng nào?",
@@ -1971,11 +2013,12 @@
   {
     "question": "Câu 202: “Giáo dục và đào tạo là sự nghiệp của toàn dân” thể hiện nguyên tắc nào trong Nghị quyết 29?",
     "answers": [
-      "Nguyên tắc công bằng. B. Nguyên tắc cạnh tranh.",
+      "Nguyên tắc công bằng.",
+      "Nguyên tắc cạnh tranh.",
       "Nguyên tắc xã hội hóa giáo dục.",
       "Nguyên tắc tập trung dân chủ."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "question": "Câu 203: Theo Nghị quyết 29, mục tiêu tổng thể của đổi mới GDĐT đến năm 2030 là:",
@@ -2061,7 +2104,8 @@
     "question": "Câu 211: Theo Nghị quyết 29-NQ/TW, trong công tác lãnh đạo nhà trường, cấp ủy đảng cần:",
     "answers": [
       "Giao quyền tự chủ toàn phần",
-      "Thực sự đi đầu trong đổi mới, gương mẫu thực hiện và chịu trách nhiệm kết quả giáo dục C. Chỉ đạo về tài chính",
+      "Thực sự đi đầu trong đổi mới, gương mẫu thực hiện và chịu trách nhiệm kết quả giáo dục",
+      "Chỉ đạo về tài chính",
       "Tập trung vào tuyển sinh"
     ],
     "correctAnswer": 1
@@ -2210,7 +2254,8 @@
     "question": "Câu 226: Nghĩa vụ chung của viên chức là gì?",
     "answers": [
       "Chấp hành chủ trương, chính sách, pháp luật, tận tụy phục vụ Nhân dân",
-      "Làm việc đúng giờ C. Hoàn thành sản phẩm cá nhân",
+      "Làm việc đúng giờ ",
+      "Hoàn thành sản phẩm cá nhân",
       "Tham dự đầy đủ cuộc họp"
     ],
     "correctAnswer": 0
@@ -2330,7 +2375,8 @@
     "answers": [
       "Không được, vì đã bị buộc thôi việc.",
       "Được, nếu thầy Bách có đơn xin thôi việc hợp lệ.",
-      "Được, trừ trường hợp hành vi vi phạm kỷ luật của thầy Bách bị cấm làm công việc giảng dạy theo quy định của pháp luật hoặc theo quyết định của cơ quan có thẩm quyền.  D. Không được, vì trường tư thục cũng thuộc hệ thống giáo dục quốc dân."
+      "Được, trừ trường hợp hành vi vi phạm kỷ luật của thầy Bách bị cấm làm công việc giảng dạy theo quy định của pháp luật hoặc theo quyết định của cơ quan có thẩm quyền. ",
+      "Không được, vì trường tư thục cũng thuộc hệ thống giáo dục quốc dân."
     ],
     "correctAnswer": 2
   },
@@ -2369,7 +2415,8 @@
     "answers": [
       "Nghỉ việc",
       "Được bố trí công tác khác phù hợp hoặc giải quyết chế độ thôi việc",
-      "Chấm dứt hợp đồng D. Tự tìm việc"
+      "Chấm dứt hợp đồng ",
+      "Tự tìm việc"
     ],
     "correctAnswer": 1
   },
@@ -2448,7 +2495,8 @@
     "question": "Câu 250: Thể thức văn bản hành chính bao gồm các thành phần nào?",
     "answers": [
       "Số, ký hiệu và chữ ký.",
-      "Quốc hiệu, tiêu ngữ, tên cơ quan, số, ký hiệu, địa danh, ngày tháng, tên loại và trích yếu, nội dung, chức vụ, chữ ký, dấu, nơi nhận. C. Tên cơ quan và nội dung.",
+      "Quốc hiệu, tiêu ngữ, tên cơ quan, số, ký hiệu, địa danh, ngày tháng, tên loại và trích yếu, nội dung, chức vụ, chữ ký, dấu, nơi nhận. ",
+      "Tên cơ quan và nội dung.",
       "Số hiệu và ngày tháng."
     ],
     "correctAnswer": 1
@@ -2509,20 +2557,27 @@
       "Không vi phạm, vì việc bồi dưỡng là quyền lợi, không phải trách nhiệm.",
       "Vi phạm quy định về đạo đức nghề nghiệp.",
       "Vi phạm kỷ luật lao động.",
-      "Vi phạm trách nhiệm tham gia đào tạo, bồi dưỡng nâng cao trình độ chuyên môn, nghiệp vụ.  Câu 257: Viên chức A nghỉ thai sản, nhưng đơn vị vẫn xếp loại “không hoàn thành nhiệm vụ” vì không tham gia hoạt động chuyên môn. Theo Luật Viên chức, việc đánh giá này:",
+      "Vi phạm trách nhiệm tham gia đào tạo, bồi dưỡng nâng cao trình độ chuyên môn, nghiệp vụ.  "
+    ],
+    "correctAnswer": 3
+  },
+    {
+    "question": "Câu 257: Viên chức A nghỉ thai sản, nhưng đơn vị vẫn xếp loại “không hoàn thành nhiệm vụ” vì không tham gia hoạt động chuyên môn. Theo Luật Viên chức, việc đánh giá này:",
+    "answers": [
       "Phù hợp quy định.",
       "Không đúng, vì viên chức nghỉ theo chế độ được pháp luật bảo đảm, không đánh giá trong thời gian nghỉ thai sản.",
       "Do hiệu trưởng quyết định.",
       "Phụ thuộc công đoàn."
     ],
-    "correctAnswer": 5
+    "correctAnswer": 1
   },
   {
     "question": "Câu 258: Trường hợp một nhà giáo bị xử lý kỷ luật buộc thôi việc vì hành vi xâm hại thân thể học sinh. Theo Luật Nhà giáo, ngoài việc bị thôi việc, nhà giáo này còn phải chịu trách nhiệm pháp lý nào?",
     "answers": [
       "Chỉ bị tước danh hiệu nhà giáo.",
       "Không được làm công việc liên quan đến giáo dục trong vòng 5 năm.",
-      "Bị xử lý theo quy định của pháp luật hình sự, dân sự, hành chính nếu hành vi đó đủ yếu tố cấu thành tội phạm hoặc vi phạm pháp luật khác.  D. Phải bồi thường toàn bộ chi phí đào tạo."
+      "Bị xử lý theo quy định của pháp luật hình sự, dân sự, hành chính nếu hành vi đó đủ yếu tố cấu thành tội phạm hoặc vi phạm pháp luật khác.",
+      "Phải bồi thường toàn bộ chi phí đào tạo."
     ],
     "correctAnswer": 2
   },
@@ -2537,24 +2592,24 @@
     "correctAnswer": 1
   },
   {
-    "question": "Câu 300: Một giảng viên đại học được cơ quan nước ngoài mời tham gia nghiên cứu khoa học tại nước ngoài trong thời hạn 02 năm, với điều kiện vẫn giữ nguyên vị trí và chế độ lương cơ bản tại Việt Nam. Theo Luật Nhà giáo (73/2025/QH15), việc này được gọi là gì?  A. Biệt phái nhà giáo.",
+    "question": "Câu 300: Một giảng viên đại học được cơ quan nước ngoài mời tham gia nghiên cứu khoa học tại nước ngoài trong thời hạn 02 năm, với điều kiện vẫn giữ nguyên vị trí và chế độ lương cơ bản tại Việt Nam. Theo Luật Nhà giáo (73/2025/QH15), việc này được gọi là gì? ",
     "answers": [
+      "Biệt phái nhà giáo.",
       "Thuyên chuyển nhà giáo.",
       "Điều động nhà giáo.",
       "Luân chuyển nhà giáo."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
-    "question": "Câu 301: Một viên chức giáo dục bị kết luận “không hoàn thành nhiệm vụ” hai năm liên tiếp.",
+    "question": "Câu 301: Một viên chức giáo dục bị kết luận “không hoàn thành nhiệm vụ” hai năm liên tiếp. Theo Luật Viên chức, đơn vị quản lý có quyền xử lý thế nào?",
     "answers": [
-      "Theo Luật Viên chức, đơn vị quản lý có quyền xử lý thế nào?",
       "Điều chuyển sang vị trí khác.",
       "Giảm mức phụ cấp.",
       "Chấm dứt hợp đồng làm việc theo quy định, vì không đáp ứng yêu cầu vị trí việc làm.",
       "Gia hạn thêm một năm đánh giá.."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 2
   },
   {
     "question": "Câu 302: Viên chức A có quyền đơn phương chấm dứt hợp đồng khi:",
@@ -2571,7 +2626,8 @@
     "answers": [
       "Có, nhưng phải có sự đồng ý của cơ quan quản lý cấp trên trực tiếp.",
       "Không, vì việc đơn phương chấm dứt hợp đồng chỉ áp dụng khi viên chức vi phạm kỷ luật nghiêm trọng",
-      "Có, đơn vị sự nghiệp công lập được quyền đơn phương chấm dứt hợp đồng làm việc với viên chức bị đánh giá không hoàn thành nhiệm vụ 02 năm liên tiếp. D. Không, trừ khi anh M tự nguyện xin chấm dứt hợp đồng."
+      "Có, đơn vị sự nghiệp công lập được quyền đơn phương chấm dứt hợp đồng làm việc với viên chức bị đánh giá không hoàn thành nhiệm vụ 02 năm liên tiếp. ",
+      "Không, trừ khi anh M tự nguyện xin chấm dứt hợp đồng."
     ],
     "correctAnswer": 2
   },
@@ -2616,15 +2672,14 @@
     "correctAnswer": 2
   },
   {
-    "question": "Câu 308: Một viên chức đang trong thời gian tập sự nhưng thường xuyên nghỉ việc không phép.",
+    "question": "Câu 308: Một viên chức đang trong thời gian tập sự nhưng thường xuyên nghỉ việc không phép.Theo Luật Viên chức, cơ quan tuyển dụng được quyền:",
     "answers": [
-      "Theo Luật Viên chức, cơ quan tuyển dụng được quyền:",
       "Nhắc nhở bằng văn bản.",
       "Kéo dài thời gian tập sự.",
       "Hủy bỏ kết quả tuyển dụng và chấm dứt hợp đồng làm việc.",
       "Trừ lương theo số ngày nghỉ."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 2
   },
   {
     "question": "Câu 309: Một viên chức bị khởi tố về hành vi vi phạm pháp luật nghiêm trọng trong khi đang làm việc. Theo Luật Viên chức, đơn vị quản lý cần:",
@@ -2651,7 +2706,8 @@
     "answers": [
       "Thầy Bình có quyền từ chối vì không đúng chuyên môn.",
       "Thầy Bình phải tham gia giảng dạy và yêu cầu được bồi dưỡng.",
-      "Thầy Bình vi phạm trách nhiệm chấp hành sự phân công, điều động của cơ sở giáo dục và tham gia đào tạo, bồi dưỡng nâng cao trình độ.  D. Thầy Bình cần làm đơn kiến nghị lên cấp trên."
+      "Thầy Bình vi phạm trách nhiệm chấp hành sự phân công, điều động của cơ sở giáo dục và tham gia đào tạo, bồi dưỡng nâng cao trình độ.",
+      "Thầy Bình cần làm đơn kiến nghị lên cấp trên."
     ],
     "correctAnswer": 2
   },
@@ -2716,15 +2772,14 @@
     "correctAnswer": 2
   },
   {
-    "question": "Câu 348: Cô Lan là giáo viên THCS bị xử lý kỷ luật cảnh cáo do vi phạm đạo đức nghề nghiệp.",
+    "question": "Câu 348: Cô Lan là giáo viên THCS bị xử lý kỷ luật cảnh cáo do vi phạm đạo đức nghề nghiệp.Theo Luật Nhà giáo, cô Lan có bị cấm thực hiện quyền nào sau đây?",
     "answers": [
-      "Theo Luật Nhà giáo, cô Lan có bị cấm thực hiện quyền nào sau đây?",
       "Quyền được đào tạo, bồi dưỡng.",
       "Quyền được tham gia nghiên cứu khoa học.",
       "Quyền được ứng cử, đề cử vào vị trí lãnh đạo, quản lý (trong thời gian đang bị xử lý kỷ luật).",
       "Quyền được ký hợp đồng làm việc."
     ],
-    "correctAnswer": -1
+    "correctAnswer": 2
   },
   {
     "question": "Câu 349: Một giáo viên nhận thấy nhiều học sinh chưa có kỹ năng vận dụng kiến thức vào thực tế nên đã chủ động thay đổi phương pháp dạy, tổ chức thảo luận nhóm, học qua dự án. Cách làm này phù hợp với định hướng nào trong Nghị quyết 29-NQ/TW?",
@@ -2850,7 +2905,8 @@
   {
     "question": "Câu 361: Để đảm bảo nguồn nhân lực chất lượng cao trong bối cảnh già hóa dân số, Luật Nhà giáo 2025 (dự thảo) đã điều chỉnh độ tuổi nghỉ hưu của nhà giáo. Sự điều chỉnh này cần được thực hiện đồng bộ với chính sách đãi ngộ nào để thực sự giữ chân được đội ngũ nhà giáo có kinh nghiệm, thay vì chỉ là giải pháp hành chính?",
     "answers": [
-      "Xây dựng cơ chế đãi ngộ đặc thù về tiền lương, phụ cấp, và điều kiện làm việc (Ví dụ: Chế độ làm việc linh hoạt, tăng phụ cấp ưu đãi) nhằm tôn vinh nghề nghiệp và tạo động lực cống hiến.  B. Tăng số lượng tuần học tối thiểu trong năm học.",
+      "Xây dựng cơ chế đãi ngộ đặc thù về tiền lương, phụ cấp, và điều kiện làm việc (Ví dụ: Chế độ làm việc linh hoạt, tăng phụ cấp ưu đãi) nhằm tôn vinh nghề nghiệp và tạo động lực cống hiến.",
+      "Tăng số lượng tuần học tối thiểu trong năm học.",
       "Yêu cầu tất cả nhà giáo phải có trình độ Tiến sĩ.",
       "Khuyến khích nhà giáo nghỉ hưu sớm để giảm gánh nặng ngân sách."
     ],
@@ -2917,15 +2973,14 @@
     "correctAnswer": 2
   },
   {
-    "question": "Câu 368: : Trường F, một trường THPT, quyết định chuyển từ hình thức tổ chức đào tạo theo",
+    "question": "Câu 368: : Trường F, một trường THPT, quyết định chuyển từ hình thức tổ chức đào tạo theo Niên chế sang Tín chỉ trong một số môn học. Theo Luật Giáo dục 2019, 'Tín chỉ' được hiểu là gì?",
     "answers": [
-      "Niên chế sang Tín chỉ trong một số môn học. Theo Luật Giáo dục 2019, 'Tín chỉ' được hiểu là gì?",
       "Yêu cầu cần đạt về phẩm chất và năng lực của người học sau khi hoàn thành một chương trình giáo dục.",
       "Hình thức tổ chức quá trình giáo dục, đào tạo theo năm học.",
       "Đơn vị đo lường thời gian học tập trong một học kỳ.",
       "Đơn vị dùng để đo lường khối lượng kiến thức, kỹ năng và kết quả học tập đã tích lũy được trong một khoảng thời gian nhất định."
     ],
-    "correctAnswer": 4
+    "correctAnswer": 3
   },
   {
     "question": "Câu369: Cơ quan R ban hành một văn bản điện tử. Theo Nghị định 30/2020/NĐ-CP, bản gốc của văn bản điện tử này phải được lưu ở đâu?",
