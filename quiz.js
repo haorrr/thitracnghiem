@@ -142,7 +142,7 @@ function showResults() {
 
     const percentage = ((score / quizData.length) * 100).toFixed(1);
     finalScore.innerHTML = `
-        You scored <strong>${score}</strong> out of <strong>${quizData.length}</strong> questions!<br>
+        Bạn làm đúng <strong>${score}</strong> trên <strong>${quizData.length}</strong> câu hỏi!<br>
         <span style="color: #667eea; font-size: 2rem; font-weight: bold;">${percentage}%</span>
     `;
 }

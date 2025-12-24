@@ -1440,9 +1440,9 @@
     "correctAnswer": 1
   },
   {
-    "question": "Câu 145: Người ký văn bản ghi chức vụ sai (ký dưới danh nghĩa cấp phó không được ủy quyền).",
+    "question": "Câu 145: Người ký văn bản ghi chức vụ sai (ký dưới danh nghĩa cấp phó không được ủy quyền). Theo Nghị định 30, văn bản này:",
     "answers": [
-      "Theo Nghị định 30, văn bản này: A. Có giá trị pháp lý.",
+      "Có giá trị pháp lý.",
       "Không có giá trị pháp lý vì sai thẩm quyền ký.",
       "Có giá trị nội bộ.",
       "Vẫn thực hiện được nếu có con dấu."
