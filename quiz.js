@@ -16,6 +16,12 @@ const resultContainer = document.getElementById('result-container');
 const finalScore = document.getElementById('final-score');
 const restartBtn = document.getElementById('restart-btn');
 
+// Grid Navigation Elements
+const gridContainer = document.getElementById('question-grid');
+const gridToggle = document.getElementById('grid-toggle');
+const answeredCountEl = document.getElementById('answered-count');
+const totalCountEl = document.getElementById('total-count');
+
 // Load quiz data from JSON file
 async function loadQuizData() {
     try {
@@ -41,8 +47,98 @@ function initializeQuiz() {
     currentQuestionIndex = 0;
     score = 0;
     answeredQuestions.clear();
+    generateQuestionGrid();
     displayQuestion();
     updateUI();
+    updateProgress();
+}
+
+// Generate question grid buttons
+function generateQuestionGrid() {
+    if (!gridContainer) return;
+
+    gridContainer.innerHTML = '';
+
+    quizData.forEach((_, index) => {
+        const btn = document.createElement('button');
+        btn.className = 'grid-btn';
+        btn.textContent = index + 1;
+        btn.setAttribute('role', 'gridcell');
+        btn.setAttribute('tabindex', index === 0 ? '0' : '-1');
+        btn.setAttribute('data-index', index);
+        btn.setAttribute('aria-label', `Câu ${index + 1}: Chưa trả lời`);
+
+        gridContainer.appendChild(btn);
+    });
+
+    // Update total count
+    if (totalCountEl) {
+        totalCountEl.textContent = quizData.length;
+    }
+
+    updateCurrentHighlight();
+}
+
+// Navigate to specific question
+function navigateToQuestion(index) {
+    if (index >= 0 && index < quizData.length) {
+        currentQuestionIndex = index;
+        displayQuestion();
+    }
+}
+
+// Update grid button states
+function updateGridState() {
+    if (!gridContainer) return;
+
+    const buttons = gridContainer.querySelectorAll('.grid-btn');
+    buttons.forEach((btn, index) => {
+        const isAnswered = answeredQuestions.has(index);
+
+        if (isAnswered) {
+            const question = quizData[index];
+            const isCorrect = question.selectedAnswer === question.correctAnswer;
+
+            btn.classList.add('answered');
+            if (isCorrect) {
+                btn.classList.add('correct');
+                btn.classList.remove('incorrect');
+                btn.setAttribute('aria-label', `Câu ${index + 1}: Đã trả lời đúng`);
+            } else {
+                btn.classList.add('incorrect');
+                btn.classList.remove('correct');
+                btn.setAttribute('aria-label', `Câu ${index + 1}: Đã trả lời sai`);
+            }
+        } else {
+            btn.classList.remove('answered', 'correct', 'incorrect');
+            btn.setAttribute('aria-label', `Câu ${index + 1}: Chưa trả lời`);
+        }
+    });
+
+    updateProgress();
+}
+
+// Update current question highlight
+function updateCurrentHighlight() {
+    if (!gridContainer) return;
+
+    const buttons = gridContainer.querySelectorAll('.grid-btn');
+    buttons.forEach((btn, index) => {
+        if (index === currentQuestionIndex) {
+            btn.classList.add('current');
+            btn.setAttribute('tabindex', '0');
+        } else {
+            btn.classList.remove('current');
+            btn.setAttribute('tabindex', '-1');
+        }
+    });
+}
+
+// Update progress counter
+function updateProgress() {
+    if (answeredCountEl) {
+        answeredCountEl.textContent = answeredQuestions.size;
+    }
 }
 
 // Display current question
@@ -84,6 +180,7 @@ function displayQuestion() {
     });
 
     updateUI();
+    updateCurrentHighlight();
 }
 
 // Handle answer click
@@ -123,6 +220,9 @@ function handleAnswerClick(selectedIndex) {
         score++;
         scoreElement.textContent = `Điểm: ${score}`;
     }
+
+    // Update grid state
+    updateGridState();
 }
 
 // Update UI elements
@@ -169,6 +269,75 @@ restartBtn.addEventListener('click', () => {
     quizContainer.classList.remove('hidden');
     initializeQuiz();
 });
+
+// Grid toggle event listener
+if (gridToggle) {
+    gridToggle.addEventListener('click', () => {
+        const isExpanded = gridToggle.getAttribute('aria-expanded') === 'true';
+        gridToggle.setAttribute('aria-expanded', !isExpanded);
+        gridContainer.classList.toggle('hidden');
+    });
+}
+
+// Grid click event listener (event delegation)
+if (gridContainer) {
+    gridContainer.addEventListener('click', (e) => {
+        const btn = e.target.closest('.grid-btn');
+        if (btn) {
+            const index = parseInt(btn.getAttribute('data-index'));
+            navigateToQuestion(index);
+        }
+    });
+
+    // Keyboard navigation for grid
+    gridContainer.addEventListener('keydown', (e) => {
+        const currentBtn = document.activeElement;
+        if (!currentBtn.classList.contains('grid-btn')) return;
+
+        const buttons = Array.from(gridContainer.querySelectorAll('.grid-btn'));
+        const currentIndex = buttons.indexOf(currentBtn);
+        let targetIndex = currentIndex;
+
+        const cols = window.innerWidth <= 480 ? 4 : window.innerWidth <= 768 ? 6 : 10;
+
+        switch(e.key) {
+            case 'ArrowRight':
+                targetIndex = Math.min(currentIndex + 1, buttons.length - 1);
+                e.preventDefault();
+                break;
+            case 'ArrowLeft':
+                targetIndex = Math.max(currentIndex - 1, 0);
+                e.preventDefault();
+                break;
+            case 'ArrowDown':
+                targetIndex = Math.min(currentIndex + cols, buttons.length - 1);
+                e.preventDefault();
+                break;
+            case 'ArrowUp':
+                targetIndex = Math.max(currentIndex - cols, 0);
+                e.preventDefault();
+                break;
+            case 'Home':
+                targetIndex = 0;
+                e.preventDefault();
+                break;
+            case 'End':
+                targetIndex = buttons.length - 1;
+                e.preventDefault();
+                break;
+            case 'Enter':
+            case ' ':
+                const index = parseInt(currentBtn.getAttribute('data-index'));
+                navigateToQuestion(index);
+                e.preventDefault();
+                break;
+        }
+
+        if (targetIndex !== currentIndex) {
+            buttons[targetIndex].focus();
+        }
+    });
+}
 
 // Load quiz data when page loads
 loadQuizData();
