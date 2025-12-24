@@ -1557,7 +1557,7 @@
       "Chữ ký số hợp lệ, được chứng thực bởi tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng",
       "Quét chữ ký tay"
     ],
-    "correctAnswer": -1
+    "correctAnswer": 2
   },
   {
     "question": "Câu 157: Bộ Nội vụ có trách nhiệm gì trong quản lý nhà giáo?",
@@ -2983,7 +2983,7 @@
     "correctAnswer": 3
   },
   {
-    "question": "Câu369: Cơ quan R ban hành một văn bản điện tử. Theo Nghị định 30/2020/NĐ-CP, bản gốc của văn bản điện tử này phải được lưu ở đâu?",
+    "question": "Câu 369: Cơ quan R ban hành một văn bản điện tử. Theo Nghị định 30/2020/NĐ-CP, bản gốc của văn bản điện tử này phải được lưu ở đâu?",
     "answers": [
       "Trên Hệ thống của cơ quan, tổ chức ban hành văn bản.",
       "Gửi sang Lưu trữ cơ quan ngay sau khi ban hành.",
@@ -3000,6 +3000,6 @@
       "Có, sau 24 tháng kể từ ngày quyết định kỷ luật có hiệu lực.",
       "Không, trong thời hạn 3 năm kể từ ngày quyết định kỷ luật có hiệu lực."
     ],
-    "correctAnswer": -1
+    "correctAnswer": 2
   }
 ]
