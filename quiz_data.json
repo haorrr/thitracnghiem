@@ -277,7 +277,7 @@
       "Giáo dục Việt Nam đạt trình độ tiên tiến của khu vực châu Á",
       "Nâng cao tỷ lệ vào đại học"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 1
   },
   {
     "question": "Câu 29: Một trong những mục tiêu cụ thể đến năm 2030 đối với giáo viên mầm non là gì?",
@@ -300,14 +300,14 @@
     "correctAnswer": 3
   },
   {
-    "question": "31: Tỷ lệ trường học THPT  đạt chuẩn quốc gia đến năm 2030 phấn đấu đạt:",
+    "question": "Câu 31: Tỷ lệ trường học THPT  đạt chuẩn quốc gia đến năm 2030 phấn đấu đạt:",
     "answers": [
       "55%",
       "70%",
       "80%",
       "90%"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 2
   },
   {
     "question": "Câu 32: Mục tiêu phổ cập giáo dục mầm non cho trẻ 5 tuổi đạt duy trì ở mức nào?",
