@@ -1,6 +1,6 @@
 [
   {
-    "question": "1: Nhà giáo bị tạm đình chỉ giảng dạy khi nào?",
+    "question": "Câu 1: Nhà giáo bị tạm đình chỉ giảng dạy khi nào?",
     "answers": [
       "Có khiếu nại",
       "Khi có dấu hiệu vi phạm nghiêm trọng đạo đức, pháp luật hoặc gây hậu quả trong giáo dục",
@@ -1057,7 +1057,7 @@
       "Phối hợp với nhà trường và xã hội trong giáo dục nhân cách, lối sống cho con em mình",
       "Giám sát hoạt động tài chính"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 2
   },
   {
     "question": "Câu 107: Một trong những yếu tố góp phần làm nên thành tựu của GDĐT được nêu trong Nghị quyết 29-NQ/TW là gì?",
@@ -2271,7 +2271,7 @@
     "correctAnswer": 2
   },
   {
-    "question": "228: Viên chức không được làm gì?",
+    "question": "Câu 228: Viên chức không được làm gì?",
     "answers": [
       "Làm thêm ngoài giờ.",
       "Lợi dụng vị trí để vụ lợi, phân biệt đối xử, tiết lộ bí mật nhà nước, vi phạm đạo đức nghề nghiệp.",
@@ -2341,7 +2341,7 @@
     "correctAnswer": 1
   },
   {
-    "question": "235: Viên chức được thôi việc trong trường hợp nào?",
+    "question": "Câu 235: Viên chức được thôi việc trong trường hợp nào?",
     "answers": [
       "Tự ý nghỉ việc",
       "Bị kỷ luật",
@@ -2411,7 +2411,7 @@
     "correctAnswer": 0
   },
   {
-    "question": "242: Khi giải thể đơn vị sự nghiệp, viên chức được giải quyết thế nào?",
+    "question": "Câu 242: Khi giải thể đơn vị sự nghiệp, viên chức được giải quyết thế nào?",
     "answers": [
       "Nghỉ việc",
       "Được bố trí công tác khác phù hợp hoặc giải quyết chế độ thôi việc",
@@ -2809,7 +2809,7 @@
       "Xây dựng trường chuẩn quốc gia.",
       "Đẩy mạnh xã hội hóa giáo dục, huy động nguồn lực xã hội cùng phát triển GD&ĐT"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 3
   },
   {
     "question": "Câu 352: Một trường trung học phổ thông triển khai mô hình “Trường học hạnh phúc”, trong đó chú trọng các hoạt động trải nghiệm, phát triển phẩm chất, năng lực học sinh thay cho việc học thuộc lòng. Theo Nghị quyết 29-NQ/TW, việc làm này thể hiện nội dung nào?",
